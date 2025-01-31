@@ -8,7 +8,7 @@
 5. [More Info on DeepSeek](#deepseek)
 
 ## General Overview
-This small scale project is intended to make it easy for complete beginners to run the latest DeepSeek R1 models on their local machines by deploying the container. While my initial idea was to toy around with the open source model, I felt it would be helpful to document and containerize my work so that it can be used for folks who just want to get hands-on with these models and gain insights.
+This small scale project is intended to make it easy for complete beginners to run the latest DeepSeek R1 models on their local machines by deploying the container. While my initial idea was to toy around with the open source model, I felt it would be helpful to document and containerize my work so that it can be used for folks who just want to get hands-on with these models and gain insights. By no means is this elegant code, but it is sufficient to get started as we can keep making improvements along the way!
 
 ## Prerequisite Setup
 You'll need three things installed on your local machine:
