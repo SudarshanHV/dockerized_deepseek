@@ -65,3 +65,13 @@ The DeepSeek repository: https://github.com/deepseek-ai/DeepSeek-R1
 
 HuggingFace: https://huggingface.co/deepseek-ai/DeepSeek-R1
 
+| DeepSeek Model  | Distilled From  | Memory Needed | Comparable ChatGPT Model |
+|-----------------|-----------------|---------------|-------------------------|
+| deepseek-r1:1.5b         | Qwen 1.5        | 1.1GB           |                  |
+| deepseek-r1:7b         | Qwen 7b        | 4.7GB           |    ChatGPT-4o                |
+| deepseek-r1:8b         | Llama 8b       | 4.9GB           |    ChatGPT-4o          |
+| deepseek-r1:14b         | Qwen 14b        | 9.0GB           |              |
+| deepseek-r1:32b         | Qwen 32b        | 19GB           |   ChatGPT o1-mini           |
+| deepseek-r1:70b         | Llama 70b       | 42GB           |     ChatGPT o1-mini         |
+| deepseek-r1:671b         | Main Model        | 414GB           |   ChatGPT-o1           |
+
